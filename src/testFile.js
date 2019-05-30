@@ -5,7 +5,7 @@ function check(){
 }
 // TODO
 function dup(){
- var name = "No name";
+ var name = "No    name";
  name.clearChar() // buggy code
 }
 
