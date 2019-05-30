@@ -4,7 +4,7 @@ function check(){
  name.clearChar() // buggy code
 }
 // TODO
-function dup(){
+function dup1(){
  var name = "No name";
  name.clearChar() // buggy code
 }
